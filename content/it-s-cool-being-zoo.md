@@ -5,7 +5,7 @@ description = "Kale "
 image = "/images/masonary-post/post-1.jpg"
 tags = []
 title = "It's cool being zoo"
-type = "Post"
+type = "post"
 
 +++
 Hello
