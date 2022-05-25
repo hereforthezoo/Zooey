@@ -6,7 +6,7 @@ draft = true
 image = "/images/ana-martin-vdyedy-_ufw-unsplash.jpg"
 tags = ["personal", "story"]
 title = "Time for change"
-type = "post"
+type = "featured"
 
 +++
 “The 7.34am train is now cancelled, the next train is at 8.06am”
