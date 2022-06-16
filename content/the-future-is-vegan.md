@@ -2,7 +2,6 @@
 categories = []
 date = 2022-05-25T04:00:00Z
 description = "A journey into veganhood"
-draft = true
 image = "/images/michael-oeser-k8bxgdnie5w-unsplash.jpg"
 tags = ["veganism", "activims", "animal rights"]
 title = "The future is Vegan"
