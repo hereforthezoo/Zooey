@@ -2,7 +2,6 @@
 categories = []
 date = 2022-05-25T04:00:00Z
 description = "Why the idea of \"pets\" is problematic. A deep dive into our relationship with companion animals."
-draft = true
 image = "/images/nick-mundackal-pw7q0w5qbsu-unsplash.jpg"
 tags = ["Activism", "Animal rights"]
 title = "The problem with \"pets\""
