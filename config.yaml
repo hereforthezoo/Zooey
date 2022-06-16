@@ -70,7 +70,7 @@ params:
 menu:
   main:
   - name: ZOO FAQ
-    URL: ''
+    URL: https://app.forestry.io/sites/bncig0bnwzwo-a/#/pages/content-zoo-faq-md
     weight: ''
   - name: Settings
     URL: google.com
