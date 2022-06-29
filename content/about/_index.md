@@ -5,9 +5,9 @@ description: Who are we?
 image: ''
 
 ---
-Welcome to Zooey! 
+Welcome to Zooey!
 
-Zooey is the first zoosexual lifestyle magazine featuring curated articles by community members. Within our (metaphorical) pages, you'll find amazing written works that will make you laugh, make you cry, or maybe even make you think. 
+Zooey is the first zoosexual lifestyle magazine featuring curated articles by community members. Within our (metaphorical) pages, you'll find amazing written works that will make you laugh, make you cry, or maybe even make you think.
 
 We have three main goals here at Zooey
 
@@ -17,8 +17,8 @@ Secondly, we want to be a positive space for zoos. Being someone attracted to an
 
 Finally, we want to serve as a jumping off point for other activism efforts. We want to help people connect, organize, and advance causes beneficial to the zoo movement as a whole. Whether that's conducting interviews with zoos that are creating new projects, highlighting prominent figures in the community, or allowing people with an idea to soapbox it out to others to see if anyone is interested in helping out, we want to help make the connections so that we can all move forwards.
 
-And that's us! If you're a zoo here to enjoy some articles, feel free! We're happy to have you! If you're someone who's new to the idea of zoosexuality, and isn't sure what to think of it, you're absolutely welcome as well. Take a stroll (again, metaphorically) through our library and allow some zoos to tell you about themselves, give them a chance to show you the other side. 
+And that's us! If you're a zoo here to enjoy some articles, feel free! We're happy to have you! If you're someone who's new to the idea of zoosexuality, and isn't sure what to think of it, you're absolutely welcome as well. Take a stroll (again, metaphorically) through our library and allow some zoos to tell you about themselves, give them a chance to show you the other side.
 
-Thanks for reading! 
+Thanks for reading!
 
-Zooey was formed in July 2022 by Tarro and Lykon
+Zooey was formed in July 2022 by Tarro and Lykon, with help from Mike the Dog and Inter
