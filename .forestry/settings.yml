@@ -4,10 +4,13 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
+- type: directory
   path: https://app.forestry.io/sites/bncig0bnwzwo-a/#/pages/content-faq-md
   label: FAQ
-  read_only: true
+  create: documents
+  match: "**/*"
+  templates:
+  - post
 - type: directory
   path: content
   label: Post
