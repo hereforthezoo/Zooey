@@ -6,6 +6,8 @@ image = ""
 tags = []
 title = "Zoo FAQ"
 type = "post"
+[menu.main]
+weight = 3
 
 +++
 This FAQ is split up into three sections.   
