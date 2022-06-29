@@ -42,30 +42,23 @@ params:
   logo: images/logo.png
   home: Home
   layout: "1"
-  description: This is meta description
+  description: ''
   preloader: true
   search: true
   author: Themefisher
   author_image: images/banner-img.png
-  bio: I’m a Freelance Interactive Art Director based in France. Focusing across branding
-    and identity, digital and print.
-  mobile: "+90 000 333 22"
-  email: exmaple@ymail.com
-  address: 6 rip carl Avenue CA 90733
-  contact_form_action: "#"
-  google_analitycs_id: Your ID
-  copyright: Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)
+  bio: The world's first zoosexual lifestyle magazine!
+  mobile: ''
+  email: Zooeymagazine@protonmail.me
+  address: ''
+  contact_form_action: ''
+  google_analitycs_id: ''
+  copyright: "(c) Zooey Publishing 2022"
   instafeed:
-    enable: true
+    enable: false
     access_token: IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn
   social:
-  - icon: ti-facebook
-    URL: "#"
   - icon: ti-twitter-alt
-    URL: "#"
-  - icon: ti-linkedin
-    URL: "#"
-  - icon: ti-github
     URL: "#"
 menu:
   main:
