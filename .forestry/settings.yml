@@ -7,7 +7,6 @@ sections:
 - type: document
   path: https://app.forestry.io/sites/bncig0bnwzwo-a/#/pages/content-zoo-faq-md
   label: FAQ
-  match: "**/*"
   read_only: true
 - type: directory
   path: content
