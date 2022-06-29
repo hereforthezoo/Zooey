@@ -28,6 +28,7 @@ fields:
   description: 'type: post or featured'
 pages:
 - content/an-open-letter-from-a-zoosexual.md
+- content/faq.md
 - content/interview-with-toggle-the-rat.md
 - content/the-future-is-vegan.md
 - content/the-problem-with-pets.md
