@@ -6,6 +6,9 @@ image = ""
 tags = []
 title = ""
 type = "post"
+[menu.main]
+name = "FAQ"
+weight = 1
 
 +++
 This FAQ is split up into three sections.   
