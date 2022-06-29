@@ -2,7 +2,7 @@
 categories = []
 date = 2022-05-25T04:00:00Z
 description = "A letter from Tarro to anyone who finds their way here without knowing who we are."
-image = "/images/mediamodifier-qji5chuki_w-unsplash.jpg"
+image = ""
 tags = ["Letter", "Candid", "Personal", "Intro"]
 title = "An open letter from a zoosexual"
 type = "Featured"
