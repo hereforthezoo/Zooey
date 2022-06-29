@@ -9,8 +9,6 @@ sections:
   label: FAQ
   create: documents
   match: "*"
-  templates:
-  - post
 - type: directory
   path: content
   label: Post
