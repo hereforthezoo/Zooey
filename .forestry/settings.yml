@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: Faq/*
+  path: https://app.forestry.io/sites/bncig0bnwzwo-a/#/pages/content-faq-md
   label: FAQ
   read_only: true
 - type: directory
