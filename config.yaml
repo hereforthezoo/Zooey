@@ -62,7 +62,7 @@ params:
     URL: "#www.twitter.com/ZooeyDotPub"
 menu:
   main:
-  - URL: faq
+  - URL: FAQ
     name: Zoo FAQ
     weight: "4"
   - URL: about
