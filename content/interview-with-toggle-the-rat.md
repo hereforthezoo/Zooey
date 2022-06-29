@@ -2,7 +2,7 @@
 categories = []
 date = 2022-06-29T04:00:00Z
 description = "Tarro and Toggle talk trends and tradition through the times"
-image = "/images/mediamodifier-qji5chuki_w-unsplash.png"
+image = "/images/tog.png"
 tags = ["activism", "Retrospective", "Interview"]
 title = "Interview with Toggle the Rat"
 type = "featured"
