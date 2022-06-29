@@ -6,6 +6,9 @@ image = "/images/nick-mundackal-pw7q0w5qbsu-unsplash.png"
 tags = ["Activism", "Animal rights"]
 title = "The problem with \"pets\""
 type = "post"
+[menu.main]
+name = "Zoo FAQ"
+weight = 3
 
 +++
 Since the start of civilization, humans and animals have worked together. Part of what made humans so successful so early was learning how to utilize the strengths of other animals in order to benefit for ourselves. Horses enabled us to travel long distances without needing to use our own strength to do so, making it so that humans could form connections with other humans from much farther away. Mules and oxen made it so we could work much larger fields and therefore could feed more people in the same place with less effort. Sheep provided wool that we could use to create warmer clothing. Dogs aided in hunting and herding, using their keen sense of smell to track other animals. Cats helped to keep food safe from small pests that could ruin an entire harvest. Cows, pigs, lambs and chickens provided a renewable food source that we could keep in proximity to us instead of needing to brave the elements and other potential dangers hunting. When it comes down to it, animals were an essential building block that we utilized in order to create the society that slowly over time turned into the one we have today. I mention this all to show that the relationship between humans and animals is one that's ingrained in every facet of our world at this point, from our history and culture, to even how we treat animals today. Most people don't have horses, pigs or chickens anymore, but having a dog, cat, or other small animal that lives in the home with us is something seen as pretty normal. We even invented a word for that kind of animal. A pet. Pets, however, are very different than the animals that we began to tame all those years ago at the dawn of civilization. In fact, pets are animals with as much animal removed as we could possibly manage.  
