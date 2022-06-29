@@ -7,7 +7,7 @@ sections:
 - type: directory
   path: faq
   label: FAQ
-  create: none
+  create: documents
   match: "*"
 - type: directory
   path: content
