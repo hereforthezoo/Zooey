@@ -62,7 +62,7 @@ params:
     URL: "#www.twitter.com/ZooeyDotPub"
 menu:
   main:
-  - URL: https://app.forestry.io/sites/bncig0bnwzwo-a/#/pages/faq-zoo-faq-md/
+  - URL: Zoo FAQ
     name: Zoo FAQ
     weight: ''
   - URL: about
