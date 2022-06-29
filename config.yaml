@@ -14,8 +14,8 @@ module:
       target: static
     - source: exampleSite/static/images
       target: static/images
-summaryLength: "10"
-paginate: "6"
+summaryLength: '10'
+paginate: '6'
 outputs:
   home:
   - HTML
@@ -41,7 +41,7 @@ params:
     - link: plugins/search/search.js
   logo: images/logo.png
   home: Home
-  layout: "1"
+  layout: '1'
   description: ''
   preloader: true
   search: true
@@ -62,13 +62,11 @@ params:
     URL: "#"
 menu:
   main:
-  - name: FAQ
-    weight: ''
-  - name: Contact us
-    weight: "4"
-  - URL: contact
-    name: Submit an Article
-    weight: "2"
   - URL: about
     name: About
-    weight: "1"
+    weight: 2
+  - URL: contact
+    name: Submit an Article
+    weight: 3
+  - name: FAQ
+    weight: 1

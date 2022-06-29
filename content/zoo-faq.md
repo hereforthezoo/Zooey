@@ -8,7 +8,7 @@ title = "Zoo FAQ"
 type = "post"
 [menu.main]
 name = "FAQ"
-weight = 3
+weight = 4
 
 +++
 This FAQ is split up into three sections.   
