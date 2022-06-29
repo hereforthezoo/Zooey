@@ -5,10 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: https://app.forestry.io/sites/bncig0bnwzwo-a/#/pages/content-faq-md
+  path: faq
   label: FAQ
   create: documents
-  match: "**/*"
+  match: "*"
   templates:
   - post
 - type: directory
