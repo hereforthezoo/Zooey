@@ -70,7 +70,7 @@ params:
 menu:
   main:
   - URL: contact
-    name: Contact
+    name: Submit an Article
     weight: 2
   - URL: about
     name: About
