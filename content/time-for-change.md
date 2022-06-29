@@ -2,7 +2,7 @@
 categories = []
 date = 2022-05-25T04:00:00Z
 description = "Thinking about consent while catching a train"
-image = "/images/ana-martin-vdyedy-_ufw-unsplash.jpg"
+image = ""
 tags = ["personal", "story"]
 title = "Time for change"
 type = "featured"
