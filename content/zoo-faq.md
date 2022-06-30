@@ -1,10 +1,10 @@
 +++
 categories = []
 date = ""
-description = ""
+description = "Answering the common questions we get most all in one convenient place"
 image = ""
 tags = []
-title = "Something else"
+title = "FAQ"
 type = "post"
 [menu.main]
 name = "Cool beans"
