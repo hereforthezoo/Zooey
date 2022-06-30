@@ -14,8 +14,8 @@ module:
       target: static
     - source: exampleSite/static/images
       target: static/images
-summaryLength: "10"
-paginate: "6"
+summaryLength: '10'
+paginate: '6'
 outputs:
   home:
   - HTML
@@ -41,7 +41,7 @@ params:
     - link: plugins/search/search.js
   logo: ''
   home: Home
-  layout: "1"
+  layout: '1'
   description: The world's first Zoosexual Lifestyle magazine!
   preloader: true
   search: true
@@ -62,10 +62,9 @@ params:
     URL: "#www.twitter.com/ZooeyDotPub"
 menu:
   main:
-  - URL: ''
-    name: ''
-    weight: ''
-  - - name
-    - Zoo FAQ
-  - - weight
-    - 3
+  - URL: about
+    name: About
+    weight: 1
+  - URL: contact
+    name: Submit an Article
+    weight: 2
