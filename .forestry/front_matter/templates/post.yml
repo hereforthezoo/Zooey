@@ -27,10 +27,10 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
+- Zoo FAQ/zoo-faq.md
 - content/an-open-letter-from-a-zoosexual.md
 - content/interview-with-toggle-the-rat.md
 - content/the-future-is-vegan.md
 - content/the-problem-with-pets.md
 - content/three-subtle-ways-to-show-your-zoo-pride.md
 - content/time-for-change.md
-- faq/zoo-faq.md
