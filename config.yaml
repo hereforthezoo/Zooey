@@ -45,12 +45,12 @@ params:
   description: ''
   preloader: true
   search: true
-  author: Tarro. Welcome to Zooey!
+  author: ''
   author_image: ''
   bio: Zooey! The first zoosexual lifestyle magazine.
   mobile: ''
   email: Zooeymagazine@protonmail.me
-  address: ''
+  address: Wild Country Ln, Barrow Gurney, Bristol BS48 3SE, United Kingdom
   contact_form_action: ''
   google_analitycs_id: ''
   copyright: "(c) Zooey Publishing 2022"
