@@ -39,7 +39,7 @@ params:
     - link: plugins/search/fuse.min.js
     - link: plugins/search/mark.js
     - link: plugins/search/search.js
-  logo: "/images/zooey.png"
+  logo: "/images/zooey-but-mini.png"
   home: Home
   layout: "1"
   description: ''
