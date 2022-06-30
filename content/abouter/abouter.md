@@ -2,12 +2,11 @@
 categories = []
 date = ""
 description = ""
-image = ""
+image = "/images/zooey.png"
 tags = []
-title = "Abouter"
+title = "About"
 type = "post"
 [menu.main]
-name = "About"
 weight = 3
 
 +++
