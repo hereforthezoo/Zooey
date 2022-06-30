@@ -2,7 +2,7 @@
 categories = []
 date = ""
 description = "Answering the common questions we get most all in one convenient place"
-image = ""
+image = "/images/paula-palmieri-jew6mvctr4o-unsplash.png"
 tags = []
 title = "FAQ"
 type = "post"
