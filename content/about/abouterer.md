@@ -6,6 +6,9 @@ image = ""
 tags = []
 title = "Abouterer"
 type = "post"
+[menu.main]
+name = "About"
+weight = 3
 
 +++
 Welcome to Zooey!
