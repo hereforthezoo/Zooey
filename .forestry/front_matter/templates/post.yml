@@ -28,7 +28,6 @@ fields:
   description: 'type: post or featured'
 pages:
 - Zoo FAQ/zoo-faq.md
-- content/about/abouterer.md
 - content/an-open-letter-from-a-zoosexual.md
 - content/interview-with-toggle-the-rat.md
 - content/the-future-is-vegan.md
