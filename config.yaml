@@ -45,9 +45,9 @@ params:
   description: ''
   preloader: true
   search: true
-  author: 'Zooey! The world''s first zoosexual lifestyle magazine! '
+  author: ''
   author_image: ''
-  bio: The world's first zoosexual lifestyle magazine!
+  bio: ''
   mobile: ''
   email: Zooeymagazine@protonmail.me
   address: ''
