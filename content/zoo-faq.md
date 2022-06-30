@@ -7,6 +7,9 @@ image = ""
 tags = []
 title = "Something else"
 type = "post"
+[menu.main]
+name = "Cool beans"
+weight = 4
 
 +++
 This FAQ is split up into three sections.   
