@@ -6,6 +6,9 @@ image = "/images/john-crozier-tvsuyninsac-unsplash.png"
 tags = ["personal", "story"]
 title = "Time for change"
 type = "featured"
+[menu.main]
+name = "Cool beans"
+weight = 4
 
 +++
 “The 7.34am train is now cancelled, the next train is at 8.06am”
