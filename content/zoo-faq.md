@@ -7,8 +7,7 @@ tags = []
 title = "FAQ"
 type = "post"
 [menu.main]
-name = "Cool beans"
-weight = 4
+weight = 3
 
 +++
 This FAQ is split up into three sections.   
