@@ -5,9 +5,8 @@ description: Who are we?
 image: ''
 
 ---
-Welcome to Zooey!
 
-Zooey is the first zoosexual lifestyle magazine featuring curated articles by community members. Within our (metaphorical) pages, you'll find amazing written works that will make you laugh, make you cry, or maybe even make you think.
+Zooey is a magazine and publisher featuring curated articles by community members. Within our (metaphorical) pages, you'll find amazing written works that will make you laugh, make you cry, or maybe even make you think.
 
 We have three main goals here at Zooey
 
