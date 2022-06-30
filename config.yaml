@@ -14,8 +14,8 @@ module:
       target: static
     - source: exampleSite/static/images
       target: static/images
-summaryLength: '10'
-paginate: '6'
+summaryLength: "10"
+paginate: "6"
 outputs:
   home:
   - HTML
@@ -39,9 +39,9 @@ params:
     - link: plugins/search/fuse.min.js
     - link: plugins/search/mark.js
     - link: plugins/search/search.js
-  logo: ''
+  logo: "/images/zooey.png"
   home: Home
-  layout: '1'
+  layout: "1"
   description: ''
   preloader: true
   search: true
@@ -64,4 +64,4 @@ menu:
   main:
   - URL: contact
     name: Submit an Article
-    weight: 1
+    weight: "1"
