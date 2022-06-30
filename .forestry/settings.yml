@@ -19,7 +19,7 @@ sections:
 - type: directory
   path: content/about
   label: About
-  create: none
+  create: documents
   match: "*"
 - type: document
   path: config.yaml
