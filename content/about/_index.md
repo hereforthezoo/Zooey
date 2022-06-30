@@ -3,12 +3,8 @@ title: About
 date: 2019-05-14T14:46:10.000+06:00
 description: Who are we?
 image: ''
-menu:
-  main:
-    weight: 3
 
 ---
-
 Zooey is a magazine and publisher featuring curated articles by community members. Within our (metaphorical) pages, you'll find amazing written works that will make you laugh, make you cry, or maybe even make you think.
 
 We have three main goals here at Zooey
