@@ -23,3 +23,7 @@ As I sit on the train, I notice a much older man sat opposite me. He looks to be
 Consent…..permission for something to happen or agreement to do something….should that permission always be verbal? I’ve never been asked by a human partner if I consent to sexual activity. I'd think it absurd if someone did ask! The ‘consent’ is always given non verbally, with body language and non-verbal encouragement and interaction. If I don’t consent that’s a different story altogether. I will literally say “No” and stop the person in their tracks doing whatever they’re doing. But, I’d do that with my dog too. The difference is, he’ll stop immediately, whereas men will push and push and…well you get the idea.
 
 How do we debate a basic fundamental of communication and interaction? Should we even try?
+
+Article written by Nat June 2022
+
+Find her at [https://twitter.com/knotaholicnat](https://twitter.com/knotaholicnat "https://twitter.com/knotaholicnat")
