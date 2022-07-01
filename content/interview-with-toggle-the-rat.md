@@ -179,3 +179,11 @@ Zoos are different, and that’s not only OK, it’s important. Your perspective
 Please support as many of these zoo projects as you can. Shout out to everyone who puts stuff like this magazine together. Your work is valuable and appreciated.
 
 Finally, you don’t have to accept the way things are right now. The world changes, and that change starts with us. Stay defiant!
+
+Interview conducted by Tarro, featuring Toggle June 2022
+
+Find them at
+
+[https://twitter.com/hereforthezoo](https://twitter.com/hereforthezoo "https://twitter.com/hereforthezoo")
+
+[https://twitter.com/OneBigGrumpyRat](https://twitter.com/OneBigGrumpyRat "https://twitter.com/OneBigGrumpyRat")
