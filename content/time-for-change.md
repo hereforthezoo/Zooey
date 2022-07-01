@@ -3,7 +3,7 @@ categories = []
 date = 2022-05-25T04:00:00Z
 description = "Thinking about consent while catching a train"
 image = "/images/john-crozier-tvsuyninsac-unsplash.png"
-tags = ["personal", "story"]
+tags = ["personal", "story", "nat"]
 title = "Time for change"
 type = "featured"
 
