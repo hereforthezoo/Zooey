@@ -56,4 +56,4 @@ Ignore and carry on! Or, if you feel like it, just tell them to mind their own b
 
 Article written by Lykon June 2022
 
-Find him at [https://twitter.com/paintedlykon](https://twitter.com/paintedlykon "https://twitter.com/paintedlykon")!
+Find them at [https://twitter.com/paintedlykon](https://twitter.com/paintedlykon "https://twitter.com/paintedlykon")!
