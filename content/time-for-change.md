@@ -26,4 +26,4 @@ How do we debate a basic fundamental of communication and interaction? Should we
 
 Article written by Nat June 2022
 
-Find her at [https://twitter.com/knotaholicnat](https://twitter.com/knotaholicnat "https://twitter.com/knotaholicnat")
+Find them at [https://twitter.com/knotaholicnat](https://twitter.com/knotaholicnat "https://twitter.com/knotaholicnat")
