@@ -16,7 +16,7 @@ Sigh.
 
 Yet, despite how long our path may seem, we're also here to tell you that we zoos are making steady progress. There's no better evidence than the huge growth the zoo community has been experiencing over the last two years: many new faces, new platforms like zoocommunity.org, the "Zooier Than Thou" podcast which has recently started its 4th season and, of course, the launch of our very own online magazine, Zooey!
 
-In this sense, in the spirit of optimism and determination to build a bright future for our community and loved ones, we are happy to share with you these five subtle ways in which you can show your zoopride in public. Also, we wouldn't really be an online magazine if we didn't resort to 'top 10' or 'top 3' lists from time to time now, wouldn't we?
+In this sense, in the spirit of optimism and determination to build a bright future for our community and loved ones, we are happy to share with you these three subtle ways in which you can show your zoopride in public. Also, we wouldn't really be an online magazine if we didn't resort to 'top 10' or 'top 3' lists from time to time now, wouldn't we?
 
 Without further ado, let's get started!
 
@@ -40,7 +40,7 @@ Does your animal companion wear a bandana? Make it part of your outfit! Most peo
 
 This one's not for everybody, but if you're know in your friend group for often making jokes and having a hearty laugh, then you might want to try to slip a few zooey jokes here and there.
 
-The internet, and especially the furry fandom, is ripe with jokes about lonely farmers, knots and bones. It's been reported that many zoos felt more comfortable coming out to their friends after they cracked some jokes with zooey innuendos. Grated, you'll need to have good social awareness to notice if you're taking it too far or not, but from multiple experiences we've read over the years, this might be a good strategy to subtly test the waters and see if it's okay to come out to your friends.
+The internet, and especially the furry fandom, is ripe with jokes about lonely farmers, knots and bones. It's been reported that many zoos felt more comfortable coming out to their friends after they cracked some jokes with zooey innuendos. Granted, you'll need to have good social awareness to notice if you're taking it too far or not, but from multiple experiences we've read over the years, this might be a good strategy to subtly test the waters and see if it's okay to come out to your friends.
 
 4\. (Bonus) When faced with anti-zoo drama, shut down the bigotry by ignoring the hate
 
@@ -48,7 +48,7 @@ While it'd be ideal if everyone could publicly step up and defend their friends 
 
 There's many many ways in which you can actually start building up courage, setting down your foot (or paw) and tell a group of anti-zoo haters to shut up and mind their own business. And while we all aspire and sometimes even fantasize with that very moment, we are fully aware that it often takes time and effort to be able to do so. No worries, we'll discuss this matter in future articles at Zooey!
 
-In the interim, however, there's one thing everyone of us can do most times: ignore the hate and ignore or refuse any provocations by haters to publicly pick their side. When there's drama (especially in the furry fandom), 99% there's no need to say "I don't condone this" or something similar just because the hate-brigade is pressuring you into giving in to their social blackmail.
+In the interim, however, there's one thing everyone of us can do most times: ignore the hate and ignore or refuse any provocations by haters to publicly pick their side. When there's drama (especially in the furry fandom), 99% of the time there's no need to say "I don't condone this" or something similar just because the hate-brigade is pressuring you into giving in to their social blackmail.
 
 This advice is especially important for our allies who often find themselves in a tough position when the anti-zoo rethoric makes its way across social networks. In such a case or if you yourself as a zoo have a public account: don't panic!
 
