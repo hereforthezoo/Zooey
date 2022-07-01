@@ -3,7 +3,7 @@ categories = []
 date = 2022-05-25T04:00:00Z
 description = "Three quick ways to show off how zooey you are, but in a muted and tame way that's less likely to get you cancelled! "
 image = "/images/6albcu_q-jpg-large.png"
-tags = ["Tips", " pride"]
+tags = ["Tips", " pride", "Lykon"]
 title = "Three subtle ways to show your zoo pride!"
 type = "featured"
 
@@ -24,7 +24,7 @@ Without further ado, let's get started!
 
 This one's ideal for that post-pandemic convention or meetup you've been itching to attend for a while now.
 
-Whether you go or the blue-white-purple or the brown-green-blue variation of the zoopride flag, there's endless ways in which you can introduce these color combinations in your accessories such as wristbands, necklaces or hair bands. The same can be said for clothing combinations such as brown hat, green shirt and blue jeans pants! Subtle, deniable but one more way in which you can express yourself.
+Whether you go for the blue-white-purple or the brown-green-blue variation of the zoopride flag, there's endless ways in which you can introduce these color combinations in your accessories such as wristbands, necklaces or hair bands. The same can be said for clothing combinations such as brown hat, green shirt and blue jeans pants! Subtle, deniable but one more way in which you can express yourself.
 
 How subtle you are with these color combinations is up to you and while there is a certain risk involved, it's worth mentioning that these small exercises of expression of one's identity can be empowering and have a noticeable positive effect on your mood.
 
@@ -53,3 +53,7 @@ In the interim, however, there's one thing everyone of us can do most times: ign
 This advice is especially important for our allies who often find themselves in a tough position when the anti-zoo rethoric makes its way across social networks. In such a case or if you yourself as a zoo have a public account: don't panic!
 
 Ignore and carry on! Or, if you feel like it, just tell them to mind their own business. From experience, I can tell you that having your favorite artists not give a fuck about the typical drama in which every other attention-seeker delves in, can be very reassuring to us zoos. Even if there's no explicit public support, standing tall against pressure-driven virtue signalling can also be a powerful move.
+
+Article written by Lykon June 2022
+
+Find him at [https://twitter.com/paintedlykon](https://twitter.com/paintedlykon "https://twitter.com/paintedlykon")!
