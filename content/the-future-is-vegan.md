@@ -4,7 +4,7 @@ date = 2022-05-25T04:00:00Z
 description = "A journey into veganhood"
 image = "/images/michael-oeser-k8bxgdnie5w-unsplash.png"
 tags = ["veganism", "activims", "animal rights", "Gin Fossa"]
-title = "The future is Vegan"
+title = "The Future is Vegan"
 type = "post"
 
 +++
