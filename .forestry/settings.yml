@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: " Zooey/content/contact/_index.md "
+  path: 'content/contact/_index.md '
   label: Submit
   create: all
   match: "**/*"
