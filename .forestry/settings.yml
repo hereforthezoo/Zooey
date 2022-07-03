@@ -5,10 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: https://zooey.pub/contact
+  path: contact
   label: Contact
   create: all
-  match: "**/*"
+  match: "*"
 - type: directory
   path: content/abouter
   label: Zoo FAQ
