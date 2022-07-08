@@ -8,7 +8,7 @@
         <img src="{{.Params.Image | absURL }}" alt="{{site.Params.author}}" class="img-fluid w-100 mb-4">
         {{ .Content }}
         <!— Current update —>
-        <form action="{{ site.Params.contact_form_action }}" class="row mt-5" method="POST" data-netlify="true">
+        <form action="{{ site.Params.contact_form_action }}" class="row mt-4" method="POST" data-netlify="true">
           <div class="col-lg-6">
             <input type="text" class="form-control mb-4" name="name" id="name" placeholder="Name">
           </div>
