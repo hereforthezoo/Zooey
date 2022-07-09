@@ -5,7 +5,7 @@ description = "Thinking about consent while catching a train"
 image = "/images/john-crozier-tvsuyninsac-unsplash.png"
 tags = ["personal", "story", "nat"]
 title = "Time for change"
-type = "featured"
+type = "post"
 
 +++
 “The 7.34am train is now cancelled, the next train is at 8.06am”
