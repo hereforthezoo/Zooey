@@ -2,7 +2,6 @@
 categories = []
 date = ""
 description = "A tale of a journey to finding self acceptance, and becoming part of a community."
-draft = true
 image = "/images/hannah-lim-u6nlg0y5sfs-unsplash.png"
 tags = ["Personal", "journey", "Brass Bulldog", "Shame", "Acceptance"]
 title = "Finding Self Acceptance"
@@ -21,6 +20,6 @@ The fight for self acceptance is not an easy one, and it’s one I believe no on
 
 What we as a community can do right now is continue to advocate for ourselves and all zoos who come after us. Do what you can with what you have. Even something as simple as talking to people can help advance the cause. If you’re a good artist, the community can always use more! If you’re a good writer, you could write things like skits, poems, or articles like this one. There are so many different things that if I went over them all, I’d need to write a second article. Every little bit helps, and even the simplest things can make a world of difference. It’s important to me that future generations of zoos can accept themselves easier. The mental toll self-hatred exacts is great, and if it can be prevented, then I think we should do everything we can to do so. Thank you for reading, and have a good day.
 
-Article written by Brass Bulldog (07-2022) 
+Article written by Brass Bulldog (07-2022)
 
 [https://twitter.com/TheBrassBulldog](https://twitter.com/TheBrassBulldog "https://twitter.com/TheBrassBulldog")
