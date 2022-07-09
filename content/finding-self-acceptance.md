@@ -1,0 +1,26 @@
++++
+categories = []
+date = ""
+description = "A tale of a journey to finding self acceptance, and becoming part of a community."
+draft = true
+image = "/images/hannah-lim-u6nlg0y5sfs-unsplash.png"
+tags = ["Personal", "journey", "Brass Bulldog", "Shame", "Acceptance"]
+title = "Finding Self Acceptance"
+type = "post"
+
++++
+As zoos, one of the toughest things many of us face is accepting ourselves. There’s so much negativity surrounding the idea of zoosexuality that it can be hard to see past the stigma. I, like many others, went through a period of denial, suppression, and self hatred over this part of myself, and I know first hand the pain that it brings. That, dear reader, brings me to the purpose of this article. I want to share with you two things; my story, and my hopes for a future where no one has to experience a similar period in their life. I’ll begin with my own story.
+
+I spent many years denying my zoosexuality and suppressing it to the back of my mind. At first, it didn’t seem that bad, and I was able to go about my life fairly normally. But, of course, you can only lock parts of yourself away for so long. As years passed, I found myself more and more unable to deny what I was. Forced to face the truth of my identity, I began trying to push it back down and force myself to be normal. I spent many nights crying because I couldn’t be normal. I desperately wanted to cure myself of what I thought was akin to a curse.
+
+Eventually, I thought that maybe if I could just ask out a girl that I could become “normal”, so that’s what I did. To my surprise she said yes, but it wasn’t long before I discovered that I had no attraction to her, and the only love I felt was platonic. This discovery sent me into a spiral of anxiety. It felt like everything was falling apart and I had nowhere to turn. My one saving grace was, ironically, the pandemic. It gave me the time I needed to sort myself out and fight against the self hatred I felt.
+
+For around a year I was in what I consider to be my own personal hell. My life had become constant internal conflict, with countless sleepless nights spent lying awake as I contemplated and processed everything I felt. On one hand there was the part of me that still wanted to suppress my zoosexuality and be rid of it, but on the other there was a longing for acceptance, for the ability to just be who I am. I went back and forth between these two numerous times. Some days acceptance would have a slight upper hand and I wouldn’t feel quite as bad, but other days, shame? was in power and the psychological pain would be terrible. At some point when acceptance had gotten a bit stronger, I managed to start looking for other people like me, but only in short, spread-out bursts of effort. I’d only be able to look for a few minutes before the urge to suppress came in and put an end to it. It took a while, but I eventually found ZooVille. While ZooVille certainly wasn’t the place for me, it did show me that there were others like me. Eventually I found Zooier Than Thou. Both of these helped tremendously and resulted in the last chains of suppression falling away. ZooTT also helped by showing me to ZooCommunity, the place where I became Brass Bulldog and met many friends.
+
+The fight for self acceptance is not an easy one, and it’s one I believe no one should have to fight alone. I consider the fact that I was able to get through it to be my greatest accomplishment, and I certainly wouldn’t have been able to do it if it weren’t for finding the zoo community. I should also say that I’ve heard stories from other zoos who’ve suffered through much worse for much longer on their journey to acceptance than I did. That’s why I focus so much on self acceptance. I don’t want anyone to go through the things that I and so many others have. I dream of a world where all zoos can discover their sexuality and be ok with it and themselves. I dream of a world where zoos will no longer have to fight against a mountain of stigma saying that they’re a monster for something they had no choice in. It will take a lot of time and even more work to accomplish, but I believe it’s possible.
+
+What we as a community can do right now is continue to advocate for ourselves and all zoos who come after us. Do what you can with what you have. Even something as simple as talking to people can help advance the cause. If you’re a good artist, the community can always use more! If you’re a good writer, you could write things like skits, poems, or articles like this one. There are so many different things that if I went over them all, I’d need to write a second article. Every little bit helps, and even the simplest things can make a world of difference. It’s important to me that future generations of zoos can accept themselves easier. The mental toll self-hatred exacts is great, and if it can be prevented, then I think we should do everything we can to do so. Thank you for reading, and have a good day.
+
+Article written by Brass Bulldog (07-2022) 
+
+[https://twitter.com/TheBrassBulldog](https://twitter.com/TheBrassBulldog "https://twitter.com/TheBrassBulldog")
