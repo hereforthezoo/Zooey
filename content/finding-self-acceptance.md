@@ -5,7 +5,7 @@ description = "A tale of a journey to finding self acceptance, and becoming part
 image = "/images/hannah-lim-u6nlg0y5sfs-unsplash.png"
 tags = ["Personal", "journey", "Brass Bulldog", "Shame", "Acceptance"]
 title = "Finding Self Acceptance"
-type = "post"
+type = "featured"
 
 +++
 As zoos, one of the toughest things many of us face is accepting ourselves. There’s so much negativity surrounding the idea of zoosexuality that it can be hard to see past the stigma. I, like many others, went through a period of denial, suppression, and self hatred over this part of myself, and I know first hand the pain that it brings. That, dear reader, brings me to the purpose of this article. I want to share with you two things; my story, and my hopes for a future where no one has to experience a similar period in their life. I’ll begin with my own story.
