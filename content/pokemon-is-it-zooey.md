@@ -2,7 +2,6 @@
 categories = []
 date = ""
 description = "Taking a deep dive into Pokemon to answer the age old question: Is it Zooey? "
-draft = true
 image = "/images/060670437959343c9a5d45241c260728.jpg"
 tags = ["Pokemon", "Is it Zooey", "Tarro", "Opinion"]
 title = "Pokemon: Is it Zooey? "
