@@ -5,7 +5,7 @@ description = "Three quick ways to show off how zooey you are, but in a muted an
 image = "/images/6albcu_q-jpg-large.png"
 tags = ["Tips", " pride", "Lykon"]
 title = "Three subtle ways to show your zoo pride!"
-type = "featured"
+type = "post"
 
 +++
 3 Subtle ways to show your zoopride in public
