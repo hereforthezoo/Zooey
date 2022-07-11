@@ -7,26 +7,22 @@
         </div>
         <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
           {{ if .Site.Params.address }}
-          <h6>Disclaimer</h6>
+          <h6>Address</h6>
           <ul class="list-unstyled">
-            <!--<li class="font-secondary text-dark">{{site.Params.address | markdownify }}</li>-->
-		<li class="font-secondary text-dark">zoo.lgbt is a PG-13 rated site about zoosexuality, a minority sexuality which matches the definition of "queer" and falls under the LGBTQ+ umbrella.</li>
-          
-	</ul>
+            <li class="font-secondary text-dark">{{site.Params.address | markdownify }}</li>
+          </ul>
           {{ end }}
         </div>
         <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
           {{ if or  .Site.Params.mobile  .Site.Params.email }}         
-          <h6></h6>
+          <h6>Contact Info</h6>
           <ul class="list-unstyled">
-            <!--{{ if .Site.Params.mobile }}
+            {{ if .Site.Params.mobile }}
             <li class="font-secondary text-dark">Tel : {{ .Site.Params.mobile | markdownify }}</li>
             {{ end }}
             {{ if .Site.Params.email }}           
             <li class="font-secondary text-dark">Email : {{ .Site.Params.email | markdownify }}</li>
-            {{ end }}-->
-	    <li class="font-secondary text-dark">We fully support LGBTQ+ rights, stand against bigotry and strongly condemn any type of sexual, physical or emotional abuse of non-human animals.</li>
-            
+            {{ end }}
           </ul>
           {{ end }}
         </div>
