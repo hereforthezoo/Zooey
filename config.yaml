@@ -42,7 +42,7 @@ params:
   logo: "/images/zooey-but-mini.png"
   home: Home
   layout: "1"
-  description: 'Zooey magazine! '
+  description: Zooey magazine!
   preloader: true
   search: true
   author: ''
@@ -51,7 +51,7 @@ params:
   mobile: I don't know how to get rid of this section >__>
   email: Zooeymagazine@protonmail.me
   address: Wild Country Ln, Barrow Gurney, Bristol BS48 3SE, United Kingdom
-  contact_form_action: '/contact'
+  contact_form_action: "/contact"
   google_analitycs_id: ''
   copyright: "(c) Zooey Publishing 2022"
   instafeed:
