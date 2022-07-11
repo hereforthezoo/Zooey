@@ -6,10 +6,6 @@ module:
   imports:
   - path: github.com/themefisher/parsa-hugo
     mounts:
-    - source: assets
-      target: assets
-    - source: static
-      target: static
     - source: exampleSite/static/images
       target: static/images
 summaryLength: "10"
