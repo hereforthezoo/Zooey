@@ -56,9 +56,6 @@ params:
     URL: "#www.twitter.com/ZooeyDotPub"
 menu:
   main:
-  - url: about
-    name: About
-    weight: 3
   - URL: contact
     name: Contact Us
     weight: 1
