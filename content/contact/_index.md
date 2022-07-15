@@ -10,4 +10,3 @@ If you're looking to give us suggestions, feedback, or submit an article, feel f
 Every article that gets published on Zooey goes through our amazing editors just to make sure that the message you're trying to put out there comes across as clearly as possible. They'll give you feedback, but at the end of the day your article is yours and we will never make any changes that we don't run by you first. We don't have anything complicated as far as copywrite goes, but in essence you own your article, and if you ever want to remove it for whatever reason, you absolutely can. 
 
 For any other questions, feel free to ask here as well!
-
