@@ -27,7 +27,6 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
-- content/abouter/abouter.md
 - content/an-open-letter-from-a-zoosexual.md
 - content/finding-self-acceptance.md
 - content/interview-with-toggle-the-rat.md
