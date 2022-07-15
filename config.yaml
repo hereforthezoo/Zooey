@@ -60,5 +60,5 @@ menu:
     name: About
     weight: "1"
   - URL: contact
-    name: Contact Us
+    name: Contact Zooey
     weight: "1"
