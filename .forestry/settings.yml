@@ -4,13 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: content/about/_index.md
-  label: About
-  match: "**/*"
-- type: document
-  path: content/contact/_index.md
-  label: Contact
 - type: directory
   path: content
   label: Post
@@ -18,6 +11,13 @@ sections:
   match: "*"
   templates:
   - post
+- type: document
+  path: content/about/_index.md
+  label: About
+  match: "**/*"
+- type: document
+  path: content/contact/_index.md
+  label: Contact
 - type: document
   path: config.yaml
   label: Configuration
