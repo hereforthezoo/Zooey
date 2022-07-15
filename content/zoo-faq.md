@@ -7,7 +7,7 @@ tags = []
 title = "FAQ"
 type = "post"
 [menu.main]
-weight = 2
+weight = 3
 
 +++
 This FAQ is split up into three sections.  
