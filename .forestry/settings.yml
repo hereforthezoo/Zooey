@@ -5,9 +5,12 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: content/about/_index.md
+  label: About
+  match: "**/*"
+- type: document
   path: content/contact/_index.md
   label: Contact
-  match: "**/*"
 - type: directory
   path: content
   label: Post
@@ -15,11 +18,6 @@ sections:
   match: "*"
   templates:
   - post
-- type: directory
-  path: content/about
-  label: About
-  create: documents
-  match: "*"
 - type: document
   path: config.yaml
   label: Configuration
