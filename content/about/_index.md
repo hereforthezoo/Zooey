@@ -1,13 +1,9 @@
-+++
-categories = []
-date = ""
-description = ""
-image = "/images/zooey.png"
-tags = []
-title = "About"
-type = "post"
-
-+++
+---
+title: "About us"
+date: 2019-05-14T14:46:10+06:00
+description: "About zooey.pub!"
+image: "images/author.jpg"
+---
 Welcome to Zooey!
 
 Zooey is the first zoosexual lifestyle magazine featuring curated articles by community members. Within our (metaphorical) pages, you’ll find amazing written works that will make you laugh, make you cry, or maybe even make you think.
