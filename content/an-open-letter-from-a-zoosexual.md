@@ -5,7 +5,7 @@ description = "A letter from Tarro to anyone who finds their way here without kn
 image = "/images/mediamodifier-qji5chuki_w-unsplash.png"
 tags = ["Letter", "Candid", "Personal", "Intro", "Tarro"]
 title = "An open letter from a zoosexual"
-type = "featured"
+type = "post"
 
 +++
 To whomever this concerns
