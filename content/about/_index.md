@@ -5,4 +5,3 @@ description: About zooey.pub!
 image: images/author.jpg
 
 ---
-# Welcome to Zooey!
