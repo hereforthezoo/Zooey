@@ -56,6 +56,9 @@ params:
     URL: "#www.twitter.com/ZooeyDotPub"
 menu:
   main:
+  - url: https://twitter.com/ZooeyDotPub
+    name: Twitter
+    weight: 4
   - URL: contact
     name: Contact Us
     weight: 1
