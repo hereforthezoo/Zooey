@@ -2,7 +2,7 @@
 categories = []
 date = ""
 description = ""
-image = "/images/inter-blush.png"
+image = "/images/photo_2022-06-24_16-43-09.jpg"
 tags = []
 title = "Interview with Inter"
 type = "featured"
