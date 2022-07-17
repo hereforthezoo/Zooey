@@ -2,7 +2,7 @@
 categories = []
 date = ""
 description = ""
-image = "/images/photo_2022-06-24_16-43-09.jpg"
+image = "/images/photo_2022-06-24_16-43-09.png"
 tags = []
 title = "Interview with Inter"
 type = "featured"
