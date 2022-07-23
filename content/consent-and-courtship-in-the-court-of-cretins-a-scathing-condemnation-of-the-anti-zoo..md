@@ -2,7 +2,6 @@
 categories = []
 date = ""
 description = "A general overview of what a conversation with someone that hates your guts is like."
-draft = true
 image = "/images/man-yelling-at-dog-small.png"
 tags = ["Werewoof", "Anti", "argument"]
 title = "Consent and Courtship in the Court of Cretins: A Scathing Condemnation of the Anti-Zoo. "
